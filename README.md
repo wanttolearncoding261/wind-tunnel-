@@ -27,4 +27,4 @@ work in progress - Code still not written
 
 # CAD
 
-https://www.tinkercad.com/things/a9HkoxEVDrg-sizzling-blad?sharecode=y5k4egeJQfNQEUCuPI6TMQoq83YPyJf2xd0oPjaRnbU
+https://www.tinkercad.com/things/a9HkoxEVDrg-wind-tunnel?sharecode=y5k4egeJQfNQEUCuPI6TMQoq83YPyJf2xd0oPjaRnbU
