@@ -12,7 +12,8 @@ wind tunnel is a high effciency 31.25 liter benchtop ( or desktop idk u can put 
 - 24v/12v to 5v 5A DC-DC Step down module
 - DEWOTHOV IRF520-Treiber Module
 - Moonjor 100mm Inline Duct fan
-- Hailege 0.96 OlED LCD display
+- Hailege 0.96 OLED LCD display
+- USB-A 5v mist maker
 
 # Status 
 work in progress - Code still not written
