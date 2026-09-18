@@ -1,4 +1,7 @@
-# wind-tunnel-
+# Wind tumnel
+
+<img width="1325" height="553" alt="Screenshot 2026-09-18 174446" src="https://github.com/user-attachments/assets/7838a6d9-80f2-4d2d-a542-293031fbf136" />
+
 wind tunnel is a high effciency 31.25 liter benchtop ( or desktop idk u can put it anywhere idc ) layout that fits a full scale-model ( i dont think soo but it will fit the 1:18 scale f1 car model though) aerodynamic testing workflow into a clean , solderless desktop footprint. 
 
 # features 
