@@ -24,4 +24,7 @@ work in progress - Code still not written
 # knownn issues
 - code not written yet
 - high chance to destroy the esp 32
-- CAD not full desinged yet
+
+# CAD
+
+https://www.tinkercad.com/things/a9HkoxEVDrg-sizzling-blad?sharecode=y5k4egeJQfNQEUCuPI6TMQoq83YPyJf2xd0oPjaRnbU
