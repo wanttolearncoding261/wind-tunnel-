@@ -4,6 +4,10 @@
 
 wind tunnel is a high effciency 31.25 liter benchtop ( or desktop idk u can put it anywhere idc ) layout that fits a full scale-model ( i dont think soo but it will fit the 1:18 scale f1 car model though) aerodynamic testing workflow into a clean , solderless desktop footprint. 
 
+<img width="1244" height="570" alt="Screenshot 2026-09-18 113534" src="https://github.com/user-attachments/assets/4a2c9a43-3e80-4205-8832-498bf52af194" />
+
+this is just the part you can just 3d print
+
 # features 
 - Realtime airspeed configuration
 - visualisation of air movement
@@ -29,8 +33,11 @@ work in progress - Code still not written
 
 https://www.tinkercad.com/things/a9HkoxEVDrg-wind-tunnel?sharecode=y5k4egeJQfNQEUCuPI6TMQoq83YPyJf2xd0oPjaRnbU
 
-# BOM
+# Wirring diagram 
 
+<img width="1095" height="767" alt="Screenshot 2026-09-18 183359" src="https://github.com/user-attachments/assets/b3e4d88e-b809-4598-ab71-eeac417cb7f5" />
+
+# BOM
 
 https://www.amazon.de/-/en/gp/product/B0G2M63W5S/ref=ox_sc_act_title_1?smid=A2XXBCOWDMFOUQ&psc=1
 https://www.amazon.de/-/en/gp/product/B07NK6L1PW/ref=ox_sc_act_title_2?smid=A2AC4PMSMPDXDI&psc=1
