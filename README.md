@@ -23,10 +23,10 @@ this is just the part you can just 3d print
 - USB-A 5v mist maker
 
 # Status 
-work in progress - Code still not written
+work in progress , code still in beta version 
 
 # knownn issues
-- code not written yet
+- code still in beta version 
 - high chance to destroy the esp 32
 
 # CAD
